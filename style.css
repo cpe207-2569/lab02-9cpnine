@@ -1,0 +1,59 @@
+.mali-regular {
+  font-family: "Mali", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-color:rgb(251, 237, 219);
+    color: rgb(174, 132, 76);
+    padding-top:5px ;
+    font-family: "Mali", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body a {
+    color: rgb(174, 132, 76);
+    text-decoration: none;
+}
+
+body a:hover {
+    color: rgb(166, 129, 8);
+    text-decoration: underline;
+}
+
+.center-header {
+  color: rgb(150, 90, 11);
+  text-align: center;
+  font-style: bold;
+}
+
+.skill-container {
+  border: solid rgb(136, 79, 5);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 5px;
+}
+
+.skill-container > h3 {
+  color: rgb(166, 129, 8);
+  font-style: italic;
+}
+
+h2{
+    padding: 0 5px;
+}
+
+h2 a {
+    text-decoration: none;
+    color: rgb(150, 90, 11);
+    padding: 0 10px;
+}
+
+h2 a:hover {
+    color: rgb(166, 129, 8);
+    text-decoration: underline;
+}
